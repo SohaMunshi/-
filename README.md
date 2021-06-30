@@ -61,5 +61,5 @@ Personally I put the JavaScript codes on a file like CSS, and this code we used 
 And on this code we create a Save button:
 
       <div class="my-buttons"></div>
-<button class="btn btn1">Save</button>
+      <button class="btn btn1">Save</button>
 
